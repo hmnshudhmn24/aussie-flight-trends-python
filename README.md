@@ -92,12 +92,4 @@ python app.py
 - The app uses sample hardcoded data for demonstration purposes.
 - Can be extended with real airline APIs like Skyscanner, AviationStack, etc.
 - Built as part of a technical assessment task, but scalable into a production tool.
-
-## 👨‍💻 Author
-
-**Himanshu Kumar**  
-[GitHub](https://github.com/yourusername) • [Email](mailto:your@email.com)
-
-## 📜 License
-
-MIT License - feel free to use and modify.
+- Replace 'YOUR_OPENAI_API_KEY' in the code with your actual OpenAI API key.
